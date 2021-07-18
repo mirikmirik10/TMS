@@ -1,1 +1,1 @@
-print ("hello zadanie1")
+my_list=
